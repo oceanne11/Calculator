@@ -1,6 +1,4 @@
-<style>
-
-    body {
+ body {
         margin: 0;
         height: 100vh;
         display: flex;
@@ -83,5 +81,3 @@
     button:nth-child(17) {
         grid-column: span 2;
     }
-
-</style>
